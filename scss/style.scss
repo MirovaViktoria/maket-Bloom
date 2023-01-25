@@ -1,0 +1,159 @@
+@font-face {
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Segoe UI'), url('/fonts/Segoe UI.woff2') format('woff2');
+    src: local('Segoe UI'), url('/fonts/Segoe UI.woff') format('woff');
+}
+@font-face {
+    font-family: 'Georgia_bolditalic';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Georgia_bolditalic'),
+        url('/fonts/georgia_bolditalic.woff') format('woff');
+    src: local('Georgia_bolditalic'),
+        url('/fonts/georgia_bolditalic.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Georgia';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Georgia'), url('/fonts/georgia.woff') format('woff');
+    src: local('Georgia'), url('/fonts/georgia.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Consolas';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Consolas'), url('/fonts/consolas.woff') format('woff');
+    src: local('Consolas'), url('/fonts/consolas.woff2') format('woff2');
+}
+
+body {
+    font-family: 'Segoe UI';
+    font-style: normal;
+    margin: 0;
+    width: 1280px;
+    margin: 0 auto;
+}
+
+// ! 1 Блок
+
+.header {
+    height: 88px;
+    border-bottom: 2px solid #1e1e1e;
+    display: flex;
+    &__logo {
+        // position: absolute;
+        width: 142px;
+        height: 69px;
+        padding-top: 16px;
+        padding-left: 32px;
+    }
+    &__menu {
+        padding-left: 398px;
+        padding-top: 32px;
+    }
+    &__menu-link {
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 22px;
+        padding-left: 32px;
+        text-decoration: none;
+        color: #000000;
+    }
+    menu-link:link {
+        color: #000000;
+    }
+    menu-link:active {
+        color: #000000;
+    }
+    a:hover {
+        color: #000000;
+    }
+}
+
+// ! 2 Блок
+
+.animation__block {
+    display: flex;
+    background: #7c44f1;
+    height: 800px;
+    .animation-title {
+        animation: animTitle 1s ease 0s 1 normal forwards;
+        margin-top: 271px;
+        margin-left: 32px;
+        font-weight: 400;
+        font-size: 104px;
+        line-height: 104px;
+        color: #fed0da;
+        margin-bottom: 0;
+    }
+    .animation__paragraph {
+        animation: animTitle 1s ease 0s 3 normal forwards;
+        margin: 0;
+        margin-left: 32px;
+        font-weight: 400;
+        font-size: 34px;
+        line-height: 44px;
+        color: #ffffff;
+    }
+
+    .animation__paragraph-bottom {
+        animation: animTitle 1s ease 0s 2 normal forwards;
+        margin: 0;
+        margin-left: 32px;
+        font-weight: 400;
+        font-size: 34px;
+        line-height: 44px;
+        color: #ffffff;
+        .animation__paragraph-span {
+            animation: animTitle 2s ease 0s 1 normal forwards;
+        }
+    }
+    .animation {
+        &__image {
+            animation: animPhoto 1s ease 0s 1 normal forwards;
+        }
+
+        &__image-one {
+            position: absolute;
+            width: 268px;
+            height: 315px;
+            padding-left: 269px;
+            padding-top: 290px;
+            border-radius: 2px;
+        }
+
+        &__image-two {
+            position: absolute;
+            width: 263px;
+            height: 311px;
+            padding-left: 90px;
+            padding-top: 479px;
+            border-radius: 2px;
+        }
+    }
+}
+
+// ! Animation
+@keyframes animPhoto {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
+@keyframes animTitle {
+    0% {
+        opacity: 0;
+        transform: translateX(-50px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
