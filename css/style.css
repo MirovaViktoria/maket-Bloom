@@ -1,0 +1,16 @@
+@import url(fonts.css);
+@import url(header.css);
+@import url(animation_block.css);
+@import url(animated_item.css);
+@import url(staff__company.css);
+@import url(offer_list.css);
+@import url(support_bloom.css);
+@import url(vp_product.css);
+@import url(animation_for_files.css);
+body {
+  font-family: "Segoe UI";
+  font-style: normal;
+  margin: 0;
+  width: 1280px;
+  margin: 0 auto;
+}/*# sourceMappingURL=style.css.map */

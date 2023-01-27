@@ -1,0 +1,32 @@
+.header {
+  height: 88px;
+  border-bottom: 2px solid #1e1e1e;
+  display: flex;
+}
+.header__logo {
+  width: 142px;
+  height: 69px;
+  padding-top: 16px;
+  padding-left: 32px;
+}
+.header__menu {
+  padding-left: 398px;
+  padding-top: 32px;
+}
+.header__menu-link {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  padding-left: 32px;
+  text-decoration: none;
+  color: #000000;
+}
+.header menu-link:link {
+  color: #000000;
+}
+.header menu-link:active {
+  color: #000000;
+}
+.header a:hover {
+  color: #000000;
+}/*# sourceMappingURL=header.css.map */

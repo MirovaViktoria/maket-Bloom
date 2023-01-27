@@ -1,0 +1,61 @@
+.animation__block {
+  display: flex;
+  background: #7c44f1;
+  height: 800px;
+}
+.animation__block .animation-title {
+  -webkit-animation: animTitle 1s ease 0s 1 normal forwards;
+          animation: animTitle 1s ease 0s 1 normal forwards;
+  margin-top: 271px;
+  margin-left: 32px;
+  font-weight: 400;
+  font-size: 104px;
+  line-height: 104px;
+  color: #fed0da;
+  margin-bottom: 0;
+}
+.animation__block .animation__paragraph {
+  -webkit-animation: animTitle 1s ease 0s 3 normal forwards;
+          animation: animTitle 1s ease 0s 3 normal forwards;
+  margin: 0;
+  margin-left: 32px;
+  margin-top: 34px;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 44px;
+  color: #ffffff;
+}
+.animation__block .animation__paragraph-bottom {
+  -webkit-animation: animTitle 1s ease 0s 2 normal forwards;
+          animation: animTitle 1s ease 0s 2 normal forwards;
+  margin: 0;
+  margin-left: 32px;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 44px;
+  color: #ffffff;
+}
+.animation__block .animation__paragraph-bottom .animation__paragraph-span {
+  -webkit-animation: animTitle 2s ease 0s 1 normal forwards;
+          animation: animTitle 2s ease 0s 1 normal forwards;
+}
+.animation__block .animation__image {
+  -webkit-animation: animPhoto 1s ease 0s 1 normal forwards;
+          animation: animPhoto 1s ease 0s 1 normal forwards;
+}
+.animation__block .animation__image-one {
+  position: absolute;
+  width: 268px;
+  height: 315px;
+  padding-left: 269px;
+  padding-top: 290px;
+  border-radius: 2px;
+}
+.animation__block .animation__image-two {
+  position: absolute;
+  width: 263px;
+  height: 311px;
+  padding-left: 90px;
+  padding-top: 479px;
+  border-radius: 2px;
+}/*# sourceMappingURL=animation.css.map */

@@ -1,0 +1,89 @@
+.staff__company {
+    background: #7c44f1;
+    height: 800px;
+    color: #000000;
+    margin: 0;
+    .staff__company-title {
+        padding-left: 32px;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 65px;
+        padding-top: 35px;
+        padding-bottom: 25px;
+        margin: 0;
+    }
+    .staff__company-paragraf {
+        height: 65px;
+        font-size: 50px;
+        padding-left: 29px;
+        line-height: 65px;
+        font-weight: 400;
+        margin: 0;
+    }
+    .staff__company-sam {
+        display: flex;
+        .staff__company-background {
+            width: 195px;
+            height: 258px;
+            margin-top: 143px;
+            margin-left: 29px;
+            background: #ffffff;
+            box-shadow: 3px 3px 5.88px rgba(0, 0, 0, 0.15);
+            border-radius: 4px;
+        }
+    }
+    .sam-photo {
+        width: 179px;
+        height: 219px;
+        margin: 8px;
+        border-radius: 2px;
+    }
+    .about__staff {
+        .name {
+            width: 107px;
+            height: 65px;
+            padding-left: 15px;
+            font-weight: 400;
+            font-size: 50px;
+            line-height: 65px;
+            color: #fed0da;
+            padding-top: 143px;
+            margin: 0;
+        }
+        .job {
+            font-family: 'Georgia';
+            width: 382px;
+            height: 89px;
+            font-style: normal;
+            font-weight: 400;
+            padding-left: 15px;
+            padding-top: 1px;
+            font-size: 34px;
+            line-height: 44px;
+            color: #fed0da;
+            margin: 0;
+        }
+        .about__staff-buttom {
+            display: flex;
+            align-items: center;
+            background: #7c44f1;
+            width: 145px;
+            height: 30px;
+            margin-left: 15px;
+            margin-top: 54px;
+            border: 2px solid #ffffff;
+            border-radius: 999px;
+        }
+        .linked {
+            display: flex;
+            align-items: center;
+            padding-left: 25px;
+            padding-top: 2px;
+            width: 80px;
+            height: 25px;
+        }
+        .arrow1 {
+            padding-right: 28px;
+        }
+    }
+}

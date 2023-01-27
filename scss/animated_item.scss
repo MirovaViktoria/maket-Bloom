@@ -1,0 +1,48 @@
+.animated {
+    &__list {
+        height: 98px;
+        background: #ffffff;
+    }
+
+    &__list-image1 {
+        animation: animList 1s ease 0s 1 normal forwards;
+        width: 161px;
+        height: 95px;
+        margin-left: 25px;
+    }
+
+    &__list-image2 {
+        animation: animList 1s ease 0s 1 normal forwards;
+        width: 180px;
+        height: 95px;
+        margin-left: 48px;
+    }
+
+    &__list-image3 {
+        animation: animList 1s ease 0s 1 normal forwards;
+        width: 152px;
+        height: 95px;
+        margin-left: 48px;
+    }
+
+    &__list-image4 {
+        animation: animList 1s ease 0s 1 normal forwards;
+        width: 159px;
+        height: 95px;
+        margin-left: 48px;
+    }
+
+    &__list-image5 {
+        animation: animList 1s ease 0s 1 normal forwards;
+        width: 146px;
+        height: 95px;
+        margin-left: 48px;
+    }
+
+    &__list-image6 {
+        animation: animList 1s ease 0s 1 normal forwards;
+        width: 174px;
+        height: 95px;
+        margin-left: 48px;
+    }
+}

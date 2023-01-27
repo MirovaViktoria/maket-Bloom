@@ -1,0 +1,46 @@
+.animated__list {
+  height: 98px;
+  background: #ffffff;
+}
+.animated__list-image1 {
+  -webkit-animation: animList 1s ease 0s 1 normal forwards;
+          animation: animList 1s ease 0s 1 normal forwards;
+  width: 161px;
+  height: 95px;
+  margin-left: 25px;
+}
+.animated__list-image2 {
+  -webkit-animation: animList 1s ease 0s 1 normal forwards;
+          animation: animList 1s ease 0s 1 normal forwards;
+  width: 180px;
+  height: 95px;
+  margin-left: 48px;
+}
+.animated__list-image3 {
+  -webkit-animation: animList 1s ease 0s 1 normal forwards;
+          animation: animList 1s ease 0s 1 normal forwards;
+  width: 152px;
+  height: 95px;
+  margin-left: 48px;
+}
+.animated__list-image4 {
+  -webkit-animation: animList 1s ease 0s 1 normal forwards;
+          animation: animList 1s ease 0s 1 normal forwards;
+  width: 159px;
+  height: 95px;
+  margin-left: 48px;
+}
+.animated__list-image5 {
+  -webkit-animation: animList 1s ease 0s 1 normal forwards;
+          animation: animList 1s ease 0s 1 normal forwards;
+  width: 146px;
+  height: 95px;
+  margin-left: 48px;
+}
+.animated__list-image6 {
+  -webkit-animation: animList 1s ease 0s 1 normal forwards;
+          animation: animList 1s ease 0s 1 normal forwards;
+  width: 174px;
+  height: 95px;
+  margin-left: 48px;
+}/*# sourceMappingURL=animated_item.css.map */

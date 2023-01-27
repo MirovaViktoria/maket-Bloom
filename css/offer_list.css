@@ -1,0 +1,68 @@
+.offer__list {
+  display: flex;
+  justify-content: space-evenly;
+  height: 234px;
+}
+.offer__list-text {
+  width: 596px;
+  height: 234px;
+  background: #fed0da;
+  border-bottom-left-radius: 32px;
+  border-bottom-right-radius: 32px;
+  margin-bottom: 100px;
+}
+.offer__list-title {
+  margin: 0;
+  width: 208px;
+  height: 18px;
+  padding-top: 30px;
+  padding-left: 194px;
+  font-family: "Consolas";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  text-align: center;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #000000;
+}
+.offer__list-paragraph {
+  width: 445px;
+  height: 65px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  text-align: center;
+  color: #000000;
+  padding-left: 75px;
+  margin: 0;
+}
+.offer__list-button {
+  display: flex;
+  align-items: center;
+  width: 192px;
+  height: 48px;
+  margin-left: 202px;
+  margin-top: 33px;
+  border: 2px solid #000000;
+  border-radius: 999px;
+  background: #fed0da;
+  margin-bottom: 40px;
+}
+.offer__list-tell-more {
+  width: 119px;
+  height: 25px;
+  margin-top: 13px;
+  margin-left: 26px;
+  margin-right: 6px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  text-align: center;
+  color: #000000;
+}/*# sourceMappingURL=offer_list.css.map */

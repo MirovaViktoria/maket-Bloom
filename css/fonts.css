@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Segoe UI"), url("/fonts/Segoe UI.woff2") format("woff2");
+  src: local("Segoe UI"), url("/fonts/Segoe UI.woff") format("woff");
+}
+@font-face {
+  font-family: "Georgia_bolditalic";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Georgia_bolditalic"), url("/fonts/georgia_bolditalic.woff") format("woff");
+  src: local("Georgia_bolditalic"), url("/fonts/georgia_bolditalic.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Georgia"), url("/fonts/georgia.woff") format("woff");
+  src: local("Georgia"), url("/fonts/georgia.woff2") format("woff2");
+}
+@font-face {
+  font-family: "Consolas";
+  font-style: normal;
+  font-weight: 400;
+  src: local("Consolas"), url("/fonts/consolas.woff") format("woff");
+  src: local("Consolas"), url("/fonts/consolas.woff2") format("woff2");
+}/*# sourceMappingURL=fonts.css.map */
