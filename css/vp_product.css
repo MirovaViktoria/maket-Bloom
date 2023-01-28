@@ -1,6 +1,3 @@
-.vp {
-  position: absolute;
-}
 .vp__product {
   width: 1216px;
   height: 562px;
@@ -8,7 +5,6 @@
   margin-top: 101px;
   background: #f8f8f6;
   border-radius: 32px;
-  position: absolute;
 }
 .vp__product-button {
   box-sizing: border-box;
@@ -73,21 +69,20 @@
   color: #000000;
 }
 .vp__product-image {
-  position: absolute;
+  float: right;
   width: 352px;
   height: 459px;
-  left: 852px;
-  top: 51px;
+  margin-top: 51px;
+  margin-right: 44px;
   background: #ffffff;
   box-shadow: 3px 3px 5.88px rgba(0, 0, 0, 0.15);
   border-radius: 6px;
 }
 .vp__product-photo {
-  position: absolute;
   width: 322px;
   height: 391px;
-  left: 16px;
-  top: 14px;
+  margin-left: 16px;
+  margin-top: 14px;
   border-radius: 2px;
 }
 .vp__product-company {
