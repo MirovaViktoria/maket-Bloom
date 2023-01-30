@@ -1,0 +1,23 @@
+.about-company {
+    margin: 0;
+    padding-top: 166px;
+    &__text {
+        margin: 0;
+        width: 738px;
+        padding-left: 33px;
+        font-family: 'Georgia';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 65px;
+        color: #000000;
+    }
+    span {
+        font-family: 'Segoe UI';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 50px;
+        line-height: 65px;
+        color: #000000;
+    }
+}
