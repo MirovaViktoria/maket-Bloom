@@ -1,0 +1,143 @@
+.workers-words {
+  padding-top: 63px;
+  display: flex;
+}
+.workers-words__text {
+  margin: 0;
+  width: 408px;
+  height: 553px;
+  padding-left: 4px;
+  background: #fed0da;
+  box-shadow: 3px 3px 5.88px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+}
+.workers-words__title {
+  margin: 0;
+  width: 270px;
+  height: 45px;
+  padding-top: 39px;
+  padding-left: 106px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 44px;
+  color: #000000;
+}
+.workers-words__subtitle {
+  margin: 0;
+  width: 138px;
+  height: 36px;
+  padding-left: 238px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+}
+.workers-words__paragraph {
+  margin: 0;
+  width: 340px;
+  height: 156px;
+  padding-left: 36px;
+  padding-top: 21px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+}
+.workers-words__text-one {
+  width: 408px;
+  height: 553px;
+  margin-left: 24px;
+  background: #a6e8d3;
+  box-shadow: 3px 3px 5.88px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+}
+.workers-words__title-one {
+  margin: 0;
+  width: 196px;
+  height: 45px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 44px;
+  color: #000000;
+  padding-top: 39px;
+  padding-left: 180px;
+}
+.workers-words__subtitle-one {
+  width: 313px;
+  height: 72px;
+  padding-top: 4px;
+  padding-left: 63px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  margin: 0;
+}
+.workers-words__paragraph-one {
+  width: 337px;
+  height: 130px;
+  padding-top: 17px;
+  padding-left: 39px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+  margin: 0;
+}
+.workers-words__text-two {
+  margin-left: 24px;
+  width: 408px;
+  height: 553px;
+  background: #fed0da;
+  box-shadow: 3px 3px 5.88px rgba(0, 0, 0, 0.15);
+  border-radius: 8px;
+}
+.workers-words__title-two {
+  padding-top: 39px;
+  padding-left: 169px;
+  width: 207px;
+  height: 45px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 44px;
+  color: #000000;
+  margin: 0;
+}
+.workers-words__subtitle-two {
+  padding-left: 127px;
+  width: 249px;
+  height: 36px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  margin: 0;
+}
+.workers-words__paragraph-two {
+  padding-top: 21px;
+  padding-left: 42px;
+  width: 334px;
+  height: 156px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+  margin: 0;
+}/*# sourceMappingURL=workers-words.css.map */
