@@ -73,25 +73,15 @@
 }
 .method__items-matchmakers-nav {
   width: 389px;
-  height: 422px;
-  margin-left: 24px;
-  margin-top: 33px;
-  background: #a6e8d3;
-  border-radius: 24px;
-}
-.method__items-matchmakers-text {
-  width: 389px;
-  height: 422px;
-  margin-left: 24px;
-  margin-top: 33px;
+  height: 100%;
   background: #a6e8d3;
   border-radius: 24px;
 }
 .method__items-matchmakers-title {
   width: 233px;
   height: 45px;
-  margin-left: 78px;
-  margin-top: 31px;
+  padding-left: 78px;
+  padding-top: 31px;
   font-family: "Segoe UI";
   font-style: normal;
   font-weight: 400;
@@ -99,18 +89,35 @@
   line-height: 44px;
   text-align: center;
   color: #000000;
+  margin: 0;
 }
 .method__items-matchmakers-paragraph {
   width: 309px;
   height: 78px;
-  margin-left: 24px;
-  margin-top: 29px;
+  padding-left: 24px;
+  padding-top: 29px;
   font-family: "Segoe UI";
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
   line-height: 26px;
   color: #ffffff;
+  margin: 0;
+}
+.method__items-button-plus {
+  background: #a6e8d3;
+  border: 2.5px solid black;
+  border-radius: 50%;
+  margin: 0;
+  display: flex;
+  padding: 0;
+  font-size: 30px;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  margin-left: 334px;
+  margin-top: 182px;
 }
 .method__items-nav-doors-text {
   width: 389px;
