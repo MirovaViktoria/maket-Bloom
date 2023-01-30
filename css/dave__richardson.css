@@ -1,0 +1,90 @@
+.dave-richardson__information {
+  display: flex;
+}
+.dave-richardson__photo {
+  display: flex;
+  width: 346px;
+  height: 451px;
+  margin-left: 75px;
+  margin-top: 185px;
+  background: #ffffff;
+  box-shadow: 3px 3px 5.88px rgba(0, 0, 0, 0.15);
+  border-radius: 6px;
+}
+.dave-richardson__image {
+  width: 317px;
+  height: 385px;
+  margin: 0;
+  padding-left: 16px;
+  padding-top: 13px;
+  border-radius: 2px;
+}
+.dave-richardson__logo {
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  margin-left: 362px;
+  margin-top: 575px;
+  border-radius: 0px;
+}
+.dave-richardson__text {
+  margin: 0;
+  padding-left: 33px;
+}
+.dave-richardson__title {
+  margin: 0;
+  padding-top: 233px;
+  width: 281px;
+  height: 45px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 44px;
+  color: #000000;
+}
+.dave-richardson__position {
+  margin: 0;
+  width: 281px;
+  height: 36px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+}
+.dave-richardson__hobby {
+  margin: 0;
+  width: 453px;
+  height: 36px;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+}
+.dave-richardson__paragraph {
+  margin: 0;
+  width: 794px;
+  padding-top: 33px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+}
+.dave-richardson__company {
+  margin: 0;
+  width: 149px;
+  height: 84px;
+  padding-top: 33px;
+  border-radius: 0px;
+}
+.dave-richardson__airplane {
+  position: absolute;
+  margin-top: 544px;
+  margin-left: 1038px;
+}/*# sourceMappingURL=dave__richardson.css.map */
