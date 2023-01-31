@@ -1,0 +1,93 @@
+.james {
+  display: flex;
+  padding-top: 160px;
+}
+.james__information {
+  display: flex;
+  margin: 0;
+}
+.james__logo {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  margin-left: 1181px;
+  margin-top: 415px;
+}
+.james__text {
+  margin: 0;
+  width: 747px;
+  padding-left: 32px;
+}
+.james__title {
+  width: 218px;
+  height: 45px;
+  padding-top: 61px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 34px;
+  line-height: 44px;
+  color: #000000;
+  margin: 0;
+}
+.james__position {
+  width: 283px;
+  height: 36px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  margin: 0;
+}
+.james__hobby {
+  width: 790px;
+  height: 36px;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  color: #000000;
+  margin: 0;
+}
+.james__paragraph {
+  margin: 0;
+  padding-top: 33px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 26px;
+  color: #000000;
+}
+.james__company {
+  margin: 0;
+  width: 149px;
+  height: 84px;
+  padding-top: 39px;
+}
+.james__photo {
+  margin-left: 115px;
+  margin-top: 25px;
+  width: 346px;
+  height: 451px;
+  background: #ffffff;
+  box-shadow: 3px 3px 5.88px rgba(0, 0, 0, 0.15);
+  border-radius: 6px;
+}
+.james__image {
+  width: 317px;
+  height: 385px;
+  padding-top: 13px;
+  padding-left: 16px;
+  border-radius: 2px;
+}
+.james__bee {
+  position: absolute;
+  width: 173px;
+  height: 236px;
+  margin-left: 960px;
+  margin-top: 514px;
+}/*# sourceMappingURL=block_james.css.map */
