@@ -1,0 +1,86 @@
+.mentor {
+  width: 1216px;
+  height: 535px;
+  margin-left: 32px;
+  margin-top: 173px;
+  background: #fed0da;
+  border-radius: 32px;
+  display: flex;
+}
+.mentor__text {
+  margin: 0;
+  padding-left: 48px;
+  width: 641px;
+}
+.mentor__title {
+  width: 130px;
+  height: 18px;
+  padding-top: 71px;
+  font-family: "Consolas";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 18px;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #000000;
+  margin: 0;
+}
+.mentor__subtitle {
+  margin: 0;
+  width: 550px;
+  height: 260px;
+  padding-top: 17px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  color: #000000;
+}
+.mentor__span {
+  margin: 0;
+  width: 641px;
+  height: 195px;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  color: #000000;
+}
+.mentor__button {
+  box-sizing: border-box;
+  width: 180px;
+  height: 48px;
+  margin-top: 61px;
+  border: 2px solid #000000;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  background: #fed0da;
+}
+.mentor__button-text {
+  width: 107px;
+  height: 25px;
+  padding-left: 23px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+  margin: 0;
+}
+.mentor__button-arrow {
+  margin: 0;
+  padding-left: 6px;
+}
+.mentor__image {
+  margin: 0;
+  padding-left: 63px;
+  padding-top: 51px;
+}
+.mentor__mentorship {
+  margin: 0;
+}/*# sourceMappingURL=block_mentor.css.map */
