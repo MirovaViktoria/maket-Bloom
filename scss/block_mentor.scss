@@ -62,7 +62,9 @@
         align-items: center;
         background: #fed0da;
     }
-
+    &__button:hover {
+        cursor: pointer;
+    }
     &__button-text {
         width: 107px;
         height: 25px;

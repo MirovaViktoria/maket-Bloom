@@ -59,7 +59,7 @@
         margin-bottom: 40px;
     }
     &__list-tell-more {
-        width: 119px;
+        // width: 119px;
         height: 25px;
         margin-top: 13px;
         margin-left: 26px;
@@ -71,5 +71,14 @@
         line-height: 25px;
         text-align: center;
         color: #000000;
+    }
+    &__list-tell-more:hover {
+        cursor: pointer;
+    }
+    &__list-arrow {
+        margin-left: 6px;
+    }
+    &__list-arrow:hover {
+        cursor: pointer;
     }
 }

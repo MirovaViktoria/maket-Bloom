@@ -39,12 +39,13 @@
   font-size: 20px;
   line-height: 20px;
   color: #ffffff;
+  padding-right: 9px;
 }
 .footer__star {
   height: 13.5px;
   width: 14.0034561157px;
-  padding-left: 9px;
   padding-top: 2px;
+  padding-left: 4px;
 }
 .footer__text {
   position: absolute;

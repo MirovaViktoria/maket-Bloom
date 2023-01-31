@@ -81,9 +81,16 @@
             padding-top: 2px;
             width: 80px;
             height: 25px;
+            color: #ffffff;
+        }
+        .linked:hover {
+            cursor: pointer;
         }
         .arrow1 {
             padding-right: 28px;
+        }
+        .arrow1:hover {
+            cursor: pointer;
         }
     }
 }

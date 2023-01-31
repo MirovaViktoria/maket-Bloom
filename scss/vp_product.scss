@@ -20,7 +20,20 @@
         text-align: center;
         color: #ffffff;
     }
-
+    &__product-button:hover {
+        cursor: pointer;
+    }
+    &__product-button-text {
+        height: 25px;
+        margin: 0;
+        font-family: 'Segoe UI';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 25px;
+        text-align: center;
+        color: #ffffff;
+    }
     &__product-button-engineering {
         box-sizing: border-box;
         width: 160px;
@@ -30,8 +43,24 @@
         border: 2px solid #7c44f1;
         border-radius: 8px;
         text-align: center;
+        background: #f8f8f6;
+        padding: 0;
     }
-
+    &__product-text-engineering {
+        width: 108px;
+        font-family: 'Segoe UI';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 25px;
+        text-align: center;
+        color: #7c44f1;
+        margin: 0;
+        padding-left: 26px;
+    }
+    &__product-text-engineering:hover {
+        cursor: pointer;
+    }
     &__product-title {
         margin: 0;
         padding-top: 39px;

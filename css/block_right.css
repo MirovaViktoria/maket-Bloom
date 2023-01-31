@@ -40,6 +40,10 @@
   display: flex;
   align-items: center;
   background: #ffffff;
+  padding: 0;
+}
+.right__button:hover {
+  cursor: pointer;
 }
 .right__button-text {
   width: 158px;

@@ -60,6 +60,9 @@
   align-items: center;
   background: #fed0da;
 }
+.mentor__button:hover {
+  cursor: pointer;
+}
 .mentor__button-text {
   width: 107px;
   height: 25px;

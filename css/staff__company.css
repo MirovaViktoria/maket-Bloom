@@ -81,7 +81,14 @@
   padding-top: 2px;
   width: 80px;
   height: 25px;
+  color: #ffffff;
+}
+.staff__company .about__staff .linked:hover {
+  cursor: pointer;
 }
 .staff__company .about__staff .arrow1 {
   padding-right: 28px;
+}
+.staff__company .about__staff .arrow1:hover {
+  cursor: pointer;
 }/*# sourceMappingURL=staff__company.css.map */
