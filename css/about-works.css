@@ -1,0 +1,30 @@
+.text-about-works {
+  width: 1280px;
+  height: 163px;
+  padding-top: 160px;
+  padding-left: 32px;
+  background: #ffffff;
+}
+.text-about-works__title {
+  width: 492px;
+  height: 65px;
+  padding-top: 32px;
+  font-family: "Segoe UI";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  color: #000000;
+  margin: 0;
+}
+.text-about-works__span {
+  margin: 0;
+  width: 782px;
+  height: 65px;
+  font-family: "Georgia";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  color: #000000;
+}/*# sourceMappingURL=about-works.css.map */
